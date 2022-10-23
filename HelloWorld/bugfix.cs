@@ -3,4 +3,6 @@ public class Bugfix {
     public void Fix() {
         Console.Write("Fix bug 123");
     }
+
+    public void Hotfix() {}
 }
